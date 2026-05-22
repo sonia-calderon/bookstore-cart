@@ -1,33 +1,43 @@
-# React - Extra: Carrito de compra
+# Book Store Cart
 
-- Listado de libros
-- Funcionalidad de añadir al carrito
-- Funcionalidad de eliminar del carrito
+Small React application that simulates a basic shopping cart experience. Users can browse a list of books, add products to the cart, and remove them dynamically.
 
-# Cómo ver el proyecto
+This project was created to practice React fundamentals.
 
-## Requisitos
+## Features
 
-- Node.js
-- npm
+- Book listing
+- Add books to the shopping cart
+- Remove books from the shopping cart
 
-## Cómo ejecutar
+## Technologies
 
-1. Clonar el repositorio
+- React
+- TypeScript
+- React Router
+- CSS
+- Vite
 
-```bash
-git clone <url-del-repositorio>
-cd <nombre-del-proyecto>
-```
-
-2. Instalar dependencias
+## Installation
 
 ```bash
-npm install
+git clone https://github.com/sonia-calderon/bookstore-cart.git
+
+cd bookstore-cart
+
+pnpm install
+
+pnpm start
 ```
 
-3. Levantar el servidor en desarrollo
+## Deployment
 
-```bash
-npm start
-```
+Live Demo:
+
+https://sonia-calderon.github.io/bookstore-cart/
+
+## Author
+
+Sonia Calderón:
+
+https://github.com/sonia-calderon/
